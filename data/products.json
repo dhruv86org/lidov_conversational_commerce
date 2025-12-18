@@ -1,0 +1,364 @@
+{
+  "products": [
+    {
+      "product_id": "ELEC-001",
+      "name": "Wireless Bluetooth Headphones Pro",
+      "description": "Premium over-ear wireless headphones with active noise cancellation, 40-hour battery life, and Hi-Res Audio support. Features comfortable memory foam ear cushions and foldable design for travel.",
+      "price": 149.99,
+      "category": "Electronics",
+      "stock_status": "in_stock",
+      "stock_quantity": 45
+    },
+    {
+      "product_id": "ELEC-002",
+      "name": "Smart Watch Series X",
+      "description": "Advanced smartwatch with health monitoring, GPS tracking, water resistance up to 50m, and 7-day battery life. Compatible with iOS and Android. Includes heart rate, SpO2, and sleep tracking.",
+      "price": 299.99,
+      "category": "Electronics",
+      "stock_status": "in_stock",
+      "stock_quantity": 32
+    },
+    {
+      "product_id": "ELEC-003",
+      "name": "Portable Power Bank 20000mAh",
+      "description": "High-capacity portable charger with fast charging support (65W PD), dual USB-C ports, and LED display showing remaining power. Can charge laptops, tablets, and phones simultaneously.",
+      "price": 59.99,
+      "category": "Electronics",
+      "stock_status": "in_stock",
+      "stock_quantity": 78
+    },
+    {
+      "product_id": "ELEC-004",
+      "name": "Mechanical Gaming Keyboard RGB",
+      "description": "Full-size mechanical keyboard with hot-swappable switches, per-key RGB lighting, programmable macros, and dedicated media controls. Features aircraft-grade aluminum frame.",
+      "price": 129.99,
+      "category": "Electronics",
+      "stock_status": "in_stock",
+      "stock_quantity": 25
+    },
+    {
+      "product_id": "ELEC-005",
+      "name": "Wireless Gaming Mouse Pro",
+      "description": "Ultra-lightweight wireless gaming mouse with 25K DPI sensor, 70-hour battery life, and 8 programmable buttons. Features PTFE feet for smooth gliding and RGB lighting.",
+      "price": 79.99,
+      "category": "Electronics",
+      "stock_status": "in_stock",
+      "stock_quantity": 41
+    },
+    {
+      "product_id": "ELEC-006",
+      "name": "4K Webcam with Microphone",
+      "description": "Professional 4K webcam with auto-focus, built-in noise-canceling microphones, and adjustable field of view. Perfect for streaming, video calls, and content creation.",
+      "price": 119.99,
+      "category": "Electronics",
+      "stock_status": "low_stock",
+      "stock_quantity": 8
+    },
+    {
+      "product_id": "ELEC-007",
+      "name": "USB-C Hub 10-in-1",
+      "description": "Versatile USB-C hub with HDMI 4K@60Hz, 3x USB 3.0, SD/microSD readers, Ethernet port, 100W PD pass-through, and 3.5mm audio jack. Aluminum body with built-in cable.",
+      "price": 69.99,
+      "category": "Electronics",
+      "stock_status": "in_stock",
+      "stock_quantity": 52
+    },
+    {
+      "product_id": "ELEC-008",
+      "name": "Noise Canceling Earbuds",
+      "description": "True wireless earbuds with hybrid active noise cancellation, transparency mode, and 8-hour playback (32 hours with case). IPX5 water resistant with wireless charging.",
+      "price": 179.99,
+      "category": "Electronics",
+      "stock_status": "in_stock",
+      "stock_quantity": 38
+    },
+    {
+      "product_id": "HOME-001",
+      "name": "Smart LED Light Bulbs 4-Pack",
+      "description": "WiFi-enabled smart bulbs with 16 million colors, dimmable, voice control compatible (Alexa, Google Home), and scheduling features. A19 shape, 800 lumens, energy efficient.",
+      "price": 39.99,
+      "category": "Home & Kitchen",
+      "stock_status": "in_stock",
+      "stock_quantity": 120
+    },
+    {
+      "product_id": "HOME-002",
+      "name": "Robot Vacuum Cleaner Pro",
+      "description": "Smart robot vacuum with LiDAR navigation, 3000Pa suction, auto-empty dock, and multi-floor mapping. Features app control, scheduling, and 180-minute runtime.",
+      "price": 449.99,
+      "category": "Home & Kitchen",
+      "stock_status": "in_stock",
+      "stock_quantity": 15
+    },
+    {
+      "product_id": "HOME-003",
+      "name": "Air Purifier HEPA Large Room",
+      "description": "True HEPA air purifier covering up to 1500 sq ft, removes 99.97% of particles. Features quiet sleep mode, air quality sensor, and filter replacement indicator.",
+      "price": 199.99,
+      "category": "Home & Kitchen",
+      "stock_status": "in_stock",
+      "stock_quantity": 22
+    },
+    {
+      "product_id": "HOME-004",
+      "name": "Smart Thermostat",
+      "description": "Energy-saving smart thermostat with learning capabilities, remote control via app, geofencing, and compatibility with most HVAC systems. Sleek touchscreen display.",
+      "price": 179.99,
+      "category": "Home & Kitchen",
+      "stock_status": "low_stock",
+      "stock_quantity": 6
+    },
+    {
+      "product_id": "HOME-005",
+      "name": "Instant Pot Multi-Cooker 8Qt",
+      "description": "Versatile 8-quart pressure cooker with 11 cooking functions: pressure cook, slow cook, rice, steam, sauté, and more. Stainless steel inner pot and safety features.",
+      "price": 89.99,
+      "category": "Home & Kitchen",
+      "stock_status": "in_stock",
+      "stock_quantity": 35
+    },
+    {
+      "product_id": "HOME-006",
+      "name": "Smart Door Lock",
+      "description": "Keyless smart door lock with fingerprint, keypad, app, and key access. Auto-lock feature, activity logs, and guest codes. Works with Alexa and Google Home.",
+      "price": 229.99,
+      "category": "Home & Kitchen",
+      "stock_status": "in_stock",
+      "stock_quantity": 18
+    },
+    {
+      "product_id": "HOME-007",
+      "name": "Coffee Maker with Grinder",
+      "description": "12-cup programmable coffee maker with built-in conical burr grinder, strength control, and thermal carafe. Features auto-start and freshness timer.",
+      "price": 159.99,
+      "category": "Home & Kitchen",
+      "stock_status": "in_stock",
+      "stock_quantity": 27
+    },
+    {
+      "product_id": "SPORT-001",
+      "name": "Yoga Mat Premium 6mm",
+      "description": "Extra thick eco-friendly yoga mat with alignment lines, non-slip surface, and carrying strap. Made from TPE material, latex-free, and easy to clean.",
+      "price": 45.99,
+      "category": "Sports & Fitness",
+      "stock_status": "in_stock",
+      "stock_quantity": 65
+    },
+    {
+      "product_id": "SPORT-002",
+      "name": "Adjustable Dumbbell Set 50lb",
+      "description": "Space-saving adjustable dumbbells ranging from 5-50 lbs with quick-change mechanism. Durable steel construction with comfortable grip handles.",
+      "price": 349.99,
+      "category": "Sports & Fitness",
+      "stock_status": "in_stock",
+      "stock_quantity": 12
+    },
+    {
+      "product_id": "SPORT-003",
+      "name": "Resistance Bands Set 5-Pack",
+      "description": "Set of 5 resistance bands with varying tension levels (10-50 lbs), door anchor, ankle straps, and carrying bag. Perfect for home workouts and physical therapy.",
+      "price": 29.99,
+      "category": "Sports & Fitness",
+      "stock_status": "in_stock",
+      "stock_quantity": 88
+    },
+    {
+      "product_id": "SPORT-004",
+      "name": "Foam Roller High Density",
+      "description": "High-density foam roller 18-inch for muscle recovery, deep tissue massage, and myofascial release. Textured surface for targeted pressure points.",
+      "price": 24.99,
+      "category": "Sports & Fitness",
+      "stock_status": "in_stock",
+      "stock_quantity": 54
+    },
+    {
+      "product_id": "SPORT-005",
+      "name": "Running Shoes Ultralight",
+      "description": "Lightweight running shoes with responsive cushioning, breathable mesh upper, and durable rubber outsole. Suitable for road running and daily training.",
+      "price": 119.99,
+      "category": "Sports & Fitness",
+      "stock_status": "in_stock",
+      "stock_quantity": 40
+    },
+    {
+      "product_id": "SPORT-006",
+      "name": "Fitness Tracker Band",
+      "description": "Slim fitness tracker with step counting, heart rate monitoring, sleep tracking, and 14-day battery life. Water resistant and smartphone notifications.",
+      "price": 49.99,
+      "category": "Sports & Fitness",
+      "stock_status": "in_stock",
+      "stock_quantity": 72
+    },
+    {
+      "product_id": "OFFICE-001",
+      "name": "Ergonomic Office Chair",
+      "description": "Adjustable ergonomic chair with lumbar support, breathable mesh back, 4D armrests, and tilt mechanism. Supports up to 300 lbs with smooth-rolling casters.",
+      "price": 399.99,
+      "category": "Office & Productivity",
+      "stock_status": "in_stock",
+      "stock_quantity": 14
+    },
+    {
+      "product_id": "OFFICE-002",
+      "name": "Standing Desk Electric 60x30",
+      "description": "Electric height-adjustable standing desk with memory presets, anti-collision technology, and cable management. Supports up to 350 lbs with quiet motors.",
+      "price": 549.99,
+      "category": "Office & Productivity",
+      "stock_status": "low_stock",
+      "stock_quantity": 5
+    },
+    {
+      "product_id": "OFFICE-003",
+      "name": "Monitor Light Bar",
+      "description": "LED monitor light bar with asymmetric optical design, adjustable color temperature, auto-dimming sensor, and USB power. Reduces eye strain for extended use.",
+      "price": 79.99,
+      "category": "Office & Productivity",
+      "stock_status": "in_stock",
+      "stock_quantity": 33
+    },
+    {
+      "product_id": "OFFICE-004",
+      "name": "Wireless Keyboard and Mouse Combo",
+      "description": "Slim wireless keyboard and mouse combo with quiet keys, long battery life, and reliable 2.4GHz connection. Includes USB receiver and batteries.",
+      "price": 49.99,
+      "category": "Office & Productivity",
+      "stock_status": "in_stock",
+      "stock_quantity": 56
+    },
+    {
+      "product_id": "OFFICE-005",
+      "name": "Document Scanner Portable",
+      "description": "Portable document scanner with 600 DPI resolution, auto-feed, and duplex scanning. Connects via USB-C, compatible with Windows and Mac. Includes OCR software.",
+      "price": 189.99,
+      "category": "Office & Productivity",
+      "stock_status": "in_stock",
+      "stock_quantity": 19
+    },
+    {
+      "product_id": "AUDIO-001",
+      "name": "Bookshelf Speakers Pair",
+      "description": "Premium bookshelf speakers with 5.25-inch woofers, silk dome tweeters, and 100W power handling. Rich, detailed sound for music and home theater.",
+      "price": 249.99,
+      "category": "Audio & Entertainment",
+      "stock_status": "in_stock",
+      "stock_quantity": 16
+    },
+    {
+      "product_id": "AUDIO-002",
+      "name": "Soundbar with Subwoofer",
+      "description": "2.1 channel soundbar system with wireless subwoofer, Bluetooth, HDMI ARC, and multiple EQ modes. Delivers immersive 200W surround sound experience.",
+      "price": 279.99,
+      "category": "Audio & Entertainment",
+      "stock_status": "in_stock",
+      "stock_quantity": 21
+    },
+    {
+      "product_id": "AUDIO-003",
+      "name": "Turntable Vinyl Record Player",
+      "description": "Belt-drive turntable with built-in preamp, Audio-Technica cartridge, and adjustable counterweight. Includes dust cover and USB output for digitization.",
+      "price": 199.99,
+      "category": "Audio & Entertainment",
+      "stock_status": "in_stock",
+      "stock_quantity": 11
+    },
+    {
+      "product_id": "AUDIO-004",
+      "name": "Portable Bluetooth Speaker",
+      "description": "Waterproof portable speaker with 360-degree sound, 24-hour battery life, and durable construction. Features built-in microphone and party pairing mode.",
+      "price": 99.99,
+      "category": "Audio & Entertainment",
+      "stock_status": "in_stock",
+      "stock_quantity": 47
+    },
+    {
+      "product_id": "GAMING-001",
+      "name": "Gaming Headset 7.1 Surround",
+      "description": "Gaming headset with virtual 7.1 surround sound, detachable noise-canceling microphone, memory foam ear pads, and RGB lighting. USB and 3.5mm connectivity.",
+      "price": 89.99,
+      "category": "Gaming",
+      "stock_status": "in_stock",
+      "stock_quantity": 36
+    },
+    {
+      "product_id": "GAMING-002",
+      "name": "Game Controller Wireless",
+      "description": "Wireless game controller compatible with PC, iOS, and Android. Features motion controls, rumble feedback, 40-hour battery, and customizable buttons.",
+      "price": 59.99,
+      "category": "Gaming",
+      "stock_status": "in_stock",
+      "stock_quantity": 43
+    },
+    {
+      "product_id": "GAMING-003",
+      "name": "Gaming Monitor 27\" 165Hz",
+      "description": "27-inch IPS gaming monitor with 165Hz refresh rate, 1ms response time, FreeSync/G-Sync compatible, and HDR400. Height-adjustable stand included.",
+      "price": 329.99,
+      "category": "Gaming",
+      "stock_status": "in_stock",
+      "stock_quantity": 18
+    },
+    {
+      "product_id": "GAMING-004",
+      "name": "RGB Mousepad Extended",
+      "description": "Extended gaming mousepad (900x400mm) with RGB edge lighting, smooth micro-textured surface, and anti-slip rubber base. USB-powered with multiple lighting modes.",
+      "price": 34.99,
+      "category": "Gaming",
+      "stock_status": "in_stock",
+      "stock_quantity": 62
+    },
+    {
+      "product_id": "TRAVEL-001",
+      "name": "Travel Backpack 40L",
+      "description": "Carry-on sized travel backpack with laptop compartment, anti-theft pockets, and luggage strap. Water-resistant fabric with comfortable padded straps.",
+      "price": 79.99,
+      "category": "Travel & Outdoor",
+      "stock_status": "in_stock",
+      "stock_quantity": 29
+    },
+    {
+      "product_id": "TRAVEL-002",
+      "name": "Neck Pillow Memory Foam",
+      "description": "Ergonomic memory foam travel pillow with adjustable clasp, breathable cover, and carrying bag. Provides 360-degree neck support for flights and road trips.",
+      "price": 29.99,
+      "category": "Travel & Outdoor",
+      "stock_status": "in_stock",
+      "stock_quantity": 81
+    },
+    {
+      "product_id": "TRAVEL-003",
+      "name": "Packing Cubes Set 6-Piece",
+      "description": "Set of 6 packing cubes in various sizes with durable zippers and mesh panels. Keeps luggage organized and maximizes suitcase space.",
+      "price": 24.99,
+      "category": "Travel & Outdoor",
+      "stock_status": "in_stock",
+      "stock_quantity": 94
+    },
+    {
+      "product_id": "TRAVEL-004",
+      "name": "Portable Water Bottle 32oz",
+      "description": "Insulated stainless steel water bottle keeping drinks cold 24 hours or hot 12 hours. Leak-proof lid, BPA-free, and fits most cup holders.",
+      "price": 34.99,
+      "category": "Travel & Outdoor",
+      "stock_status": "in_stock",
+      "stock_quantity": 67
+    },
+    {
+      "product_id": "CARE-001",
+      "name": "Electric Toothbrush Smart",
+      "description": "Sonic electric toothbrush with pressure sensor, 5 brushing modes, 2-minute timer, and Bluetooth app connectivity. Includes 3 brush heads and travel case.",
+      "price": 89.99,
+      "category": "Personal Care",
+      "stock_status": "in_stock",
+      "stock_quantity": 31
+    },
+    {
+      "product_id": "CARE-002",
+      "name": "Hair Dryer Professional",
+      "description": "Professional ionic hair dryer with 1875W motor, 3 heat settings, cold shot button, and concentrator attachments. Reduces frizz and drying time.",
+      "price": 69.99,
+      "category": "Personal Care",
+      "stock_status": "out_of_stock",
+      "stock_quantity": 0
+    }
+  ]
+}
